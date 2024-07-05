@@ -1,0 +1,27 @@
+label span,
+input,
+button {
+  margin-right: 5px;
+}
+article figcaption a {
+  color: rgb(5, 63, 15);
+  margin-left: 70px;
+}
+form label,
+#name,
+#date,
+#commit {
+  margin-bottom: 5px;
+}
+button {
+  margin-top: 5px;
+  margin-right: 5px;
+  padding: 6px 20px;
+}
+button a {
+  text-decoration: none;
+  color: black;
+}
+button:hover {
+  background-color: rgb(235, 218, 235);
+}
